@@ -1,0 +1,13 @@
+.vs/
+Debug/
+Release/
+x64/
+__pycache__/
+*.pyc
+*.pyo
+*.obj
+*.pdb
+*.ilk
+*.log
+.DS_Store
+Thumbs.db

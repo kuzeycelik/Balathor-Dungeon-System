@@ -1,0 +1,3 @@
+# Preserve supplied source and asset bytes exactly.
+* -text
+*.md text eol=lf
